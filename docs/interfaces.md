@@ -97,4 +97,6 @@ have `implements writer` in their declarations.
 Another advantage is that client is free to define the subset of features it requires instead of accepting
 more than it needs.
 
+Good Night buddy
+
 
